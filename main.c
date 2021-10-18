@@ -63,7 +63,7 @@ int main(int argc, char **argv)
 
     skip_days(1);
     day_counter = 0;
-    /* after this call next_day each day */
+    
 
     print_date();
 
