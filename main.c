@@ -48,8 +48,6 @@ for(int i=1;i<10;i++){
             }else{
                 break;
             }
-            num=i*100+i1*10+i2;
-            mas1[pos]=num;
             pos++;
         }
     }
